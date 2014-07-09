@@ -9,10 +9,11 @@ Since .Mac hosting was removed, jamesorriv.com has been wallowing in oblivion.
 
 Until now.
 
-I came across [Jekyell][jekyll] and saw free hosting on [Github][gh] so I am resurrecting the site in order to play with the tech.
+I came across [Jekyell][jekyll] on [Alvaro's site][alvarop] and saw free hosting on [Github][gh] so I am resurrecting the site in order to play with the tech.
 No idea if this is going to be a regular thing or just one of my explorations until I am bored. Will find out as time goes on.
 
 Ciao
 
 [jekyll]:    http://jekyllrb.com
 [gh]:        https://github.com/
+[alvarop]:   http://alvarop.com
