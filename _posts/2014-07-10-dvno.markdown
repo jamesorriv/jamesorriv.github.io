@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "It is only four capital letters"
+date:   2014-07-10 15:26:00
+categories: youtube
+---
+
+Came across this great music video that any who lived through the 80's should appreciate (and the song is catchy too).
+
+<iframe width="560" height="420" src="http://www.youtube.com/embed/GiDsLRQg_g4?color=white&amp;theme=light"></iframe>
+
