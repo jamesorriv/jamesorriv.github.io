@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Site Back
+date:   2017-11-06
+categories: update
+---
+
+I wanted to make a *new* post and found out the site was not working. After fiddling with GoDaddy
+DNS and pouring over github pages documentation for 5 minutes, I have the site back up. Not sure
+who is too blame but it doesn't look like anybody cares so no harm no foul.
+
+Now that it is up, I might actually add some content.
