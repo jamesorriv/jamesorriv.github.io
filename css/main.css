@@ -22,10 +22,8 @@ a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
 a:visited { color: #205caa; }
 
-figure {
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+figure img {
+	width: 100%;
 }
 
 figcaption {
