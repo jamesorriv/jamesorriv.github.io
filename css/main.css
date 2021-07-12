@@ -34,7 +34,7 @@ figcaption {
 
 /* first level hanging indent */
 .h-1 {
-  text-indent: 3em
+  padding-left: 3em;
 }
 
 /* Utility */
