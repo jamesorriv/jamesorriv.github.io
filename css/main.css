@@ -411,3 +411,14 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+figure {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+figcaption {
+	color: #7f7f7f;
+	font-style: italic;
+}
